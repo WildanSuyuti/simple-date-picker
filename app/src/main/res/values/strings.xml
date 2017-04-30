@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatePickerDemo</string>
+    <string name="result">RESULT !</string>
+    <string name="choice_your_date">Choice your date</string>
+</resources>
